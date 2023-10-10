@@ -8,5 +8,6 @@ while (a<9) {
     if (a==7) {
         continue;
     };
+    console.log(a);
 };
-console.log(a);
+
