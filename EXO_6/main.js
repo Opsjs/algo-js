@@ -8,6 +8,5 @@ function CheckNames(Name1, Name2) {
         return false;
     };
 };
-
 let result = CheckNames(a, b);
 console.log(result)
